@@ -70,11 +70,12 @@ De convectiebeweging leidt tot een spontane complexe ruimtelijke organisatie, bi
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
 cat('
 <div><div style="position:relative; padding-top: 56.25%">
-<iframe src="figs/BernardCellenIk.mp4" frameborder="0" allowfullscreen
+<iframe src="figs/BernardCellenIk.mp4?autoplay=0" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
 </div></div>')
 ```
-*Bernard convectie cellen die ontstaan door olie op te warmen kunnen worden gevisualiseerd met grafiet (Bron: Lieven Clement link: )*
+*Bernard convectie cellen die ontstaan door olie op te warmen kunnen worden gevisualiseerd met grafiet (
+[link video clip](https://biodanzabrugge.be/biologischeAspectenBiodanza/figs/BernardCellenIk.mp4))*
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
 cat('
