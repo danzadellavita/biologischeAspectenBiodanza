@@ -1,0 +1,77 @@
+PMID- 23695635
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130716
+LR  - 20211021
+IS  - 1755-4349 (Electronic)
+IS  - 1755-4330 (Linking)
+VI  - 5
+IP  - 6
+DP  - 2013 Jun
+TI  - RNA with iron(II) as a cofactor catalyses electron transfer.
+PG  - 525-8
+LID - 10.1038/nchem.1649 [doi]
+AB  - Mg(2+) is essential for RNA folding and catalysis. However, for the first 1.5 
+      billion years of life on Earth RNA inhabited an anoxic Earth with abundant and 
+      benign Fe(2+). We hypothesize that Fe(2+) was an RNA cofactor when iron was 
+      abundant, and was substantially replaced by Mg(2+) during a period known as the 
+      'great oxidation', brought on by photosynthesis. Here, we demonstrate that 
+      reversing this putative metal substitution in an anoxic environment, by removing 
+      Mg(2+) and replacing it with Fe(2+), expands the catalytic repertoire of RNA. 
+      Fe(2+) can confer on some RNAs a previously uncharacterized ability to catalyse 
+      single-electron transfer. We propose that RNA function, in analogy with protein 
+      function, can be understood fully only in the context of association with a range 
+      of possible metals. The catalysis of electron transfer, requisite for metabolic 
+      activity, may have been attenuated in RNA by photosynthesis and the rise of O2.
+FAU - Hsiao, Chiaolong
+AU  - Hsiao C
+AD  - School of Chemistry and Biochemistry, and NASA Astrobiology Institute Center for 
+      Ribosomal Origins and Evolution, Georgia Institute of Technology, Atlanta, 
+      Georgia 30332, USA.
+FAU - Chou, I-Chun
+AU  - Chou IC
+FAU - Okafor, C Denise
+AU  - Okafor CD
+FAU - Bowman, Jessica C
+AU  - Bowman JC
+FAU - O'Neill, Eric B
+AU  - O'Neill EB
+FAU - Athavale, Shreyas S
+AU  - Athavale SS
+FAU - Petrov, Anton S
+AU  - Petrov AS
+FAU - Hud, Nicholas V
+AU  - Hud NV
+FAU - Wartell, Roger M
+AU  - Wartell RM
+FAU - Harvey, Stephen C
+AU  - Harvey SC
+FAU - Williams, Loren Dean
+AU  - Williams LD
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20130519
+PL  - England
+TA  - Nat Chem
+JT  - Nature chemistry
+JID - 101499734
+RN  - 63231-63-0 (RNA)
+RN  - E1UOL152H7 (Iron)
+SB  - IM
+MH  - *Biocatalysis
+MH  - Electron Transport
+MH  - Iron/*metabolism
+MH  - RNA/*metabolism
+EDAT- 2013/05/23 06:00
+MHDA- 2013/07/17 06:00
+CRDT- 2013/05/23 06:00
+PHST- 2012/11/15 00:00 [received]
+PHST- 2013/03/29 00:00 [accepted]
+PHST- 2013/05/23 06:00 [entrez]
+PHST- 2013/05/23 06:00 [pubmed]
+PHST- 2013/07/17 06:00 [medline]
+AID - nchem.1649 [pii]
+AID - 10.1038/nchem.1649 [doi]
+PST - ppublish
+SO  - Nat Chem. 2013 Jun;5(6):525-8. doi: 10.1038/nchem.1649. Epub 2013 May 19.

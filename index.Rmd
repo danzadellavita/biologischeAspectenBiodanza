@@ -1,0 +1,88 @@
+---
+title: Biologische Aspecten van Biodanza
+author: 
+
+site: bookdown::bookdown_site
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue 
+citecolor: blue
+output: 
+  bookdown::gitbook:
+    toc_depth: 3
+  bookdown::pdf_book:
+    toc_depth: 3
+    toccolor: blue
+    header-includes:
+      - \AtBeginDocument{\frontmatter}
+documentclass: book
+link-citations: yes
+bibliography: [bibliography.bib]
+biblio-style: apalike
+always_allow_html: true
+---
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+#bookdown::render_book("index.Rmd", "bookdown::gitbook")
+#bookdown::render_book("index.Rmd", "bookdown::pdf_book")
+```
+
+<!--
+```{asis, eval=(knitr::is_html_output())}
+# {-}
+![](./figs/titlePage.png)
+```
+-->
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
+cat('
+# {-}
+<center>
+![](./figs/logo1TitlePage.png)
+Biodanza School - Systema Rolando Toro - Antwerpen 
+
+Directeur: Annette Heynderickx
+
+Cyclus VI
+
+Monografie voor de titel van Biodanza docent
+
+Lieven Clement
+
+Supervisoren: Annette Heynderickx & Nadia Costa
+</center>
+'
+)
+```
+
+
+
+# Licentie and links {.unnumbered}
+
+Deze monografie wordt gedeeld onder de <a href= "https://creativecommons.org/licenses/by-nc-sa/4.0"> CC BY-NC-SA 4.0</a> licentie op `r format(Sys.time(), "%d %B, %Y")`.
+
+Het werk mag worden gebruikt voor niet-commerciële doeleinden. 
+
+Je bent vrij om het materiaal te kopiëren, te verspreiden en door te geven via elk medium of bestandsformaat. Om het te bewerken, te veranderen en afgeleide werken te maken. De gebruiker dient de maker van het werk te vermelden, een link naar de licentie te plaatsen en aan te geven of het werk veranderd is. Als je het werk hebt veranderd, of op het werk hebt voortgebouwd, moet je het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk.
+
+
+Een pdf versie van het eboek kan je hier vinden: [Biological-Aspects-of-Biodanza.pdf](https://biodanzabrugge.be/biologicalAspectsBiodanza/Biological-Aspects-of-Biodanza.pdf)
+
+een versie in epub version formaat kan je hier vinden: 
+[Biological-Aspects-of-Biodanza.epub](https://biodanzabrugge.be/biologicalAspectsBiodanza/Biological-Aspects-of-Biodanza.epub)
+
+\mainmatter
+
+# Samenvatting {-}
+
+Ik begon in 2021 aan de lerarenopleiding Biodanza aan de School van Antwerpen. De verrijkte omgeving veranderde mijn kijk op het leven en hoe ik het leven ervaar volledig. Het zorgde voor een enorme persoonlijke groei en stimuleerde mij om mijn geest, lichaam en hart opnieuw te verbinden.
+
+Tijdens de eerste module van de lerarenopleiding stond ik versteld om te zien dat de verticale as in het model van Biodanza zo nauw verweven leek te zijn met mijn wetenschappelijke pad van de afgelopen 25 jaar. Rolondo Toro werd bij de ontwikkeling van zijn Systeem van Biodanza door zoveel vooraanstaande wetenschappers geïnspireerd. Tijdens mijn formele wetenschappelijke opleiding kwam ik echter nooit in aanraking met veel van de concepten die in de eerste modules van de lerarenopleiding aan bod kwamen, en ik kon deze niet vatten zonder het werk van de oorspronkelijke auteurs te raadplegen.
+
+Mijn monografie weerspiegelt dan ook mijn zoektocht om Rolando's visie op de biologische aspecten te begrijpen, die aan de basis liggen van zijn model van Biodanza. In het eerste hoofdstuk introduceer ik het model van Biodanza. In het tweede hoofdstuk probeer ik Rolando's kijk op het leven, zijn biocentrische principe en het concept "vitaal onbewuste" dat Rolando introduceerde te verduidelijken. In dit hoofdstuk leg ik ook de basis voor de overige drie hoofdstukken die elk focussen op een belangrijk biologisch aspect in het model van Biodanza: (1) Principes van kosmisch leven en de ontstaansgeschiedenis van het leven, een kort verhaal over de geschiedenis van het universum tot aan de oorsprong van het leven, (2) Fylogenese en evolutie, waarin ik de geschiedenis van het leven en hoe het leven evolueerde kort introduceer, en (3) Ontogenese, waar ik toelicht hoe wij evolueren vanaf onze oorsprong van bevruchte eicel tot volwassenheid, totdat we uiteindelijk sterven. In het laatste hoofdstuk ligt de nadruk sterk op epigenetica, de ontbrekende schakel die Rolando Toro nodig had om uit te leggen hoe Biodanza een verrijkte omgeving induceert die verandering teweegbrengt in hoe we ons genetisch potentieel gebruiken. Tenslotte sluit ik deze monografie af met enkele slotopmerkingen en met een addendum met enkele impressies die ik tijdens mijn Biodanza-lerarenopleiding heb geschreven.
+
