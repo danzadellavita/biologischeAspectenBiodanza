@@ -2,7 +2,7 @@
 
 Een van de belangrijkste drijfveren voor Rolando Toro om zijn Systeem van Biodanza te ontwikkelen was zijn observatie dat we als westerse mens niet meer verbonden zijn met onze oorsprong en met de kosmos, wat destructieve culturele vormen heeft voortgebracht. Deze komen voort uit onze cartesiaanse manier van denken en zorgde voor een gefragmenteerde kijk op het leven. Dat denken impliceert inderdaad een scheiding tussen lichaam en geest, mens en natuur, levende materie en niet-levende materie, en het bestudeert het universum alsof het uit afzonderlijk bestaande delen bestaat die min of meer op elkaar inwerken als delen van een machine [@bohm1980]. Ons gefragmenteerde wereldbeeld heeft ons ontgekoppeld van de kosmische matrix; onze samenleving opgedeeld in verschillende religieuze, politieke, economische en raciale groepen; en leidde tot de roofbouw op de natuur, planten, dieren en de uitbuiting van medemensen.
 
-Ronando heeft daarom zijn biocentrische principe tegenover dit oude wereldbeeld geplaatst. Bij het formuleren van zijn principe ging Rolando uit van het axioma dat "leven de essentiële voorwaarde is voor het ontstaan van het universum". In zijn boek over Biodanza [@toro2008]  verwijst hij naar het universum als een levend hologram of als de matrix van het leven, een zelforganiserende structuur die het leven opbouwt. Zijn opvatting is dat de hele kosmos moet worden begrepen als een gigantisch levend systeem op zichzelf. Dat principe nodigt ons uit om onze relatie als mens met de gehele biosfeer waarin we leven radicaal te herdenken. Vanuit dit gezichtspunt is het leven zelf intrinsiek sacraal, wat ons ertoe aanzet om alle leven, het hele universum, in het hart van onze wereldbeeld te plaatsen.
+Ronando heeft daarom zijn biocentrische principe tegenover dit oude wereldbeeld geplaatst. Bij het formuleren van zijn principe ging Rolando uit van het axioma dat "leven de essentiële voorwaarde is voor het ontstaan van het universum". In zijn boek over Biodanza [@toro2008]  verwijst hij naar het universum als een levend hologram of als de matrix van het leven, een zelforganiserende structuur die leven opbouwt. Zijn opvatting is dat de hele kosmos moet worden begrepen als een gigantisch levend systeem op zichzelf. Dat principe nodigt ons uit om onze relatie als mens met de gehele biosfeer waarin we leven radicaal te herdenken. Vanuit dit gezichtspunt is het leven zelf intrinsiek sacraal, wat ons ertoe aanzet om alle leven, het hele universum, in het hart van onze wereldbeeld te plaatsen.
 
 Vanuit mijn wetenschappelijke achtergrond kwam het axioma dat "leven de essentiële voorwaarde is voor het ontstaan van het universum" nogal radicaal over. Ik voelde echter onmiddellijk dat het biocentrisme “an sich”, dat vertrekt vanuit de diepe verwondering voor het leven en het centraal zet in onze wereldbeeld, de sleutel was voor Rolando's systeem van Biodanza. Het gaat uit van het simpele feit dat het leven bestaat, hier en nu, en dat cognitie en menselijke groei voortkomen uit de vivencia van het leven. Die groei kan ons ertoe aanzetten om na te denken over onze oorsprong en onze plaats in het universum. Maar belangrijker dan deze gedachten is de ervaring, die een diepere begrip van binnenuit bevordert, en dat onmiddellijk met onze "embodied mind" die diep wordt geraakt door vivencia.
 
@@ -12,14 +12,15 @@ Bij het denken over wetenschap is het essentieel, zoals @bohm1980 zo mooi formul
 
 ## Rolando Toro's Kijk op Leven en zijn Biocentrische Principe
 
-In zijn boek Biodanza schrijft Rolando dat het universum begrepen kan worden als een levend systeem en dat "het rijk van het leven veel meer omvat dan de planten, de dieren en de mens. Alles wat bestaat, van neutrino’s tot quasars, van edelsteen tot de meest subtiele gedachte, maakt deel uit van dit wonderbaarlijke levende systeem", waarnaar hij vaak verwijst als een gigantisch levend hologram.
+In zijn boek Biodanza schrijft Rolando dat het universum begrepen kan worden als een levend systeem en dat "het rijk van het leven veel meer omvat dan de planten, de dieren en de mens. Alles wat bestaat, van neutrino’s tot quasars, van edelsteen tot de meest subtiele gedachte, maakt deel uit van dit wonderbaarlijke levende systeem". 
+Hij verwijst dan ook vaak naar het universum als een gigantisch levend hologram.
 
 
 ### Holografische Analogie voor het Universum
 
 Waar kwam Rolando's holografische analogie voor het universum vandaan? Het woord hologram komt uit het Grieks, waarbij het woord holos volledig of geheel betekent en het achtervoegsel gram verwijst naar iets dat is neergeschreven of vastgelegd. "Holografie" is een techniek om een driedimensionaal beeld van een object op een tweedimensionale fotografische plaat vast te leggen. Wanneer een hologram op een geschikte manier wordt belicht, kan het 3D-beeld worden gereconstrueerd. Zelfs wanneer de holografische opname in delen wordt opgedeeld, kan het 3D-beeld uit elk deel worden gereconstrueerd, zij het met een lagere resolutie. Elk deel van het hologram bevat dus informatie over het geheel!
 
-Bij conventionele holografie wordt een laserlichtstraal gesplitst in een straal die rechtstreeks naar de fotografische plaat wordt geleid en een straal die een object verlicht. Een hologram is een fotografische opname van het lichtveld dat ontstaat door de interferentie^[Interferentie: wanneer twee golven samenkomen resulteren ze in een nieuwe golf die een amplitude kan hebben die hoger of lager is als de golven respectievelijk in fase of uit fase zijn. Als twee identieke golven interfereren, die volledig in fase zijn, komen hun pieken en dalen overeen en zal hun interferentie resulteren in een nieuwe golf met een piek en een dal die twee keer zo hoog en twee keer zo diep is als elk van de oorspronkelijke golven (constructieve interferentie). Wanneer de golven volledig uit fase zijn, komt de piek van de eerste golf overeen met het dal van de tweede golf en vice versa, zodat de resulterende golf vlak zal zijn, d.w.z. dat beide golven elkaar opheffen (destructieve interferentie). Er kan interferentie worden waargenomen bij alle soorten golven, zoals bij licht-, radio-, akoestische, oppervlaktewater-, elektrische, materie- en zwaartekrachtgolven.] van het deel van de binnenkomende lichtbundel dat rechtstreeks naar de fotografische plaat wordt geleid met het deel van deze bundel dat is verstrooid bij het belichten van een object. Wanneer de fotografische plaat wordt belicht met een laserstraal, kan het 3D-beeld worden gereconstrueerd, zie bijvoorbeeld figuur \@ref(fig:hologram1). De opname op elke locatie van de fotografische plaat is het resultaat van de interferentie van lichtgolven van de oorspronkelijke lichtbundel met lichtgolven die door alle delen van het object worden teruggekaatst. Elk deel van de opname bevat dus informatie over het hele object, in tegenstelling tot een traditionele foto waarbij er een één-op-één relatie bestaat tussen het object en het opgenomen beeld. Zoals @bohm1980 het zo mooi verwoordt: in een hologram "zijn vorm en structuur van het gehele object als het ware opgevouwen in elke regio van de fotografische opname" en "als men licht schijnt op om het even welke regio van het hologram, wordt de vorm en structuur opnieuw ontvouwd tot een herkenbaar beeld van het hele object"^[In a hologram “form and structure of the entire object may be said to be enfolded within each region of the photographic record” and “when one shines light on any region, this form and structure are unfolded to give a recognizable image of the whole object once again”].
+Bij conventionele holografie wordt een laserlichtstraal gesplitst in een straal die rechtstreeks naar de fotografische plaat wordt geleid en een straal die een object verlicht. Een hologram is een fotografische opname van het lichtveld dat ontstaat door de interferentie^[Interferentie: wanneer twee golven samenkomen resulteren ze in een nieuwe golf die een amplitude kan hebben die hoger of lager is als de golven respectievelijk in fase of uit fase zijn. Als twee identieke golven interfereren, die volledig in fase zijn, komen hun pieken en dalen overeen en zal hun interferentie resulteren in een nieuwe golf met een piek en een dal die twee keer zo hoog en twee keer zo diep is als elk van de oorspronkelijke golven (constructieve interferentie). Wanneer de golven volledig uit fase zijn, komt de piek van de eerste golf overeen met het dal van de tweede golf en vice versa, zodat de resulterende golf vlak zal zijn, d.w.z. dat beide golven elkaar opheffen (destructieve interferentie). Er kan interferentie worden waargenomen bij alle soorten golven, zoals bij licht-, radio-, akoestische, oppervlaktewater-, elektrische, materie- en zwaartekrachtgolven.] van het deel van de binnenkomende lichtbundel dat rechtstreeks naar de fotografische plaat wordt geleid met het deel van deze bundel dat is verstrooid bij het belichten van een object. Wanneer de fotografische plaat wordt belicht met een laserstraal, kan het 3D-beeld worden gereconstrueerd, zie bijvoorbeeld figuur \@ref(fig:hologram1). De opname op elke locatie van de fotografische plaat is het resultaat van de interferentie van lichtgolven van de oorspronkelijke lichtbundel met lichtgolven die door alle delen van het object worden teruggekaatst. Elk deel van de opname bevat dus informatie over het hele object, in tegenstelling tot een traditionele foto waarbij er een één-op-één relatie bestaat tussen het object en het opgenomen beeld. Zoals @bohm1980 het zo mooi verwoordt: in een hologram "zijn vorm en structuur van het gehele object als het ware opgevouwen in elke regio van de fotografische opname" en "als men licht schijnt op om het even welke regio van het hologram, wordt de vorm en structuur opnieuw ontvouwen tot een herkenbaar beeld van het hele object"^[In a hologram “form and structure of the entire object may be said to be enfolded within each region of the photographic record” and “when one shines light on any region, this form and structure are unfolded to give a recognizable image of the whole object once again”].
 
 ```{r hologram1, fig.cap='Holografische opname en reconstructie. (Bron: Bob Mellish, Wikipedia)',  out.width='100%', fig.asp=.8, fig.align='center', echo=FALSE ,fig.show='hold'}
 knitr::include_graphics(c("./figs/holographySmall.png"))
@@ -43,13 +44,13 @@ cat('
 ```
 *Timelapse van een groeiende zonnebloem (Source: https://www.youtube.com/watch?v=_owPRdbaMdY)*
 
-De plant is ook holografisch. Elk van zijn cellen bevat inderdaad alle informatie uit het zaad, dat wil zeggen al zijn DNA en zijn celstructuur. @bohm1980 wijst er verder op dat het zaad weinig tot niets bevat van de volledige biomassa van de plant die eruit is gegroeid. Het zaad bevat slechts de informatie die nodig is om zijn omgeving te transformeren om de plant te laten groeien uit zonne-energie en de chaos van eenvoudige moleculen CO$_2$, stikstof en fosfor. Opmerkelijk is dat de plant uiteindelijk nieuwe zaden zal produceren, die de informatie verder in de omgeving zullen verspreiden en deze steeds opnieuw zullen transformeren om planten te laten groeien. Het wordt dus duidelijk dat we niet langer een onderscheid hoeven te maken tussen "levenloze" en "levende" materie. Als we vasthouden aan deze oude cartesiaanse manier van denken, worden we geconfronteerd met verwarrende vragen zoals wanneer een zogenaamd "levenloos" koolstofatoom "levend" zou worden? Zodra het de bladhuidmondjes binnendringt of wanneer het wordt opgenomen in de suikers die in de bladgroenkorrels worden gevormd? Wordt het koolstofatoom weer "levenloos" als de plant de suikers die het heeft geassimileerd opnieuw tot CO$_2$ verbrand tijdens de nacht? Al deze verwarrende vragen lossen spontaan op als we het universum als een ononderbroken en onverdeelde totaliteit bekijken. Vanuit dit paradigma gaan we ervan uit dat de omgeving wordt aangerijkt met de informatie van het zaad, dat op de een of andere manier zijn omgeving lijkt aan te sturen om de zonnebloem te laten groeien. Het leven zelf kan dus worden beschouwd als deel van het geheel dat de plant en zijn omgeving omvat. Het leven is op de een of andere manier in deze totaliteit "opgevouwen" en al impliciet aanwezig, nog voordat het zich "ontvouwt" en zich expliciet manifesteert. Alle atomen die uiteindelijk de zonnebloem zullen vormen die zal groeien uit het zaad, zijn immers al in de omgeving aanwezig. Het is de informatie in het zaad die de omgeving als het ware herstructureert om de plant te groeien. Op deze manier kan zogenaamde "levenloze materie" worden gezien als een subtotaliteit van het geheel waarin leven zich kan ontvouwen, bijvoorbeeld wanneer de omgeving wordt verrijkt met de informatie in een zonnebloempit. @bohm1980 concludeert dus dat we het geheel niet hoeven op te splitsen in "levende" en "levenloze" materie, en dat we leven ook niet moeten proberen te reduceren tot iets dat volledig uit "levensloze" materie is voortgebracht.
+De plant is ook holografisch. Elk van zijn cellen bevat inderdaad alle informatie uit het zaad, dat wil zeggen al zijn DNA en zijn celstructuur. @bohm1980 wijst er verder op dat het zaad weinig tot niets bevat van de volledige biomassa van de plant die eruit is gegroeid. Het zaad bevat slechts de informatie die nodig is om zijn omgeving te transformeren om de plant te laten groeien uit zonne-energie en de chaos van eenvoudige moleculen CO$_2$, stikstof, fosfor, ... Opmerkelijk is dat de plant uiteindelijk nieuwe zaden zal produceren, die de informatie verder in de omgeving zullen verspreiden en deze steeds opnieuw zullen transformeren om planten te laten groeien. Het wordt dus duidelijk dat we niet langer een onderscheid hoeven te maken tussen "levenloze" en "levende" materie. Als we vasthouden aan deze oude cartesiaanse manier van denken, worden we geconfronteerd met verwarrende vragen zoals wanneer een zogenaamd "levenloos" koolstofatoom "levend" zou worden? Zodra het de bladhuidmondjes binnendringt of wanneer het wordt opgenomen in de suikers die in de bladgroenkorrels worden gevormd? Wordt het koolstofatoom weer "levenloos" als de plant de suikers die het heeft geassimileerd opnieuw tot CO$_2$ verbrand tijdens de nacht? Al deze verwarrende vragen lossen spontaan op als we het universum als een ononderbroken en onverdeelde totaliteit bekijken. Vanuit dit paradigma gaan we ervan uit dat de omgeving wordt aangerijkt met de informatie van het zaad, dat op de een of andere manier zijn omgeving lijkt aan te sturen om de zonnebloem te laten groeien. Het leven zelf kan dus worden beschouwd als deel van het geheel dat de plant en zijn omgeving omvat. Het leven is op de een of andere manier in deze totaliteit "opgevouwen" en al impliciet aanwezig, nog voordat het zich "ontvouwt" en zich expliciet manifesteert. Alle atomen die uiteindelijk de zonnebloem zullen vormen die zal groeien uit het zaad, zijn immers al in de omgeving aanwezig. Het is de informatie in het zaad die de omgeving als het ware herstructureert om de plant te groeien. Op deze manier kan zogenaamde "levenloze materie" worden gezien als een subtotaliteit van het geheel waarin leven zich kan ontvouwen, bijvoorbeeld wanneer de omgeving wordt verrijkt met de informatie in een zonnebloempit. @bohm1980 concludeert dus dat we het geheel niet hoeven op te splitsen in "levende" en "levenloze" materie, en dat we leven ook niet moeten proberen te reduceren tot iets dat volledig uit "levensloze" materie is voortgebracht.
 
-Het zonnebloempit voorbeeld is een prachtige illustratie van de synergie tussen anabasis en katabasis. Het proces van katabasis waarbij de zonnebloem sterft en desintegreert, draagt onmiddellijk de kiem in zich van nieuw leven dat verborgen ligt in de nieuwgevormde zaden. Zodra de zaden ontkiemen in een nieuwe omgeving begint het proces van anabasis of van de integratie en herstructurering van de omgeving immers opnieuw.
+Het zonnebloempitvoorbeeld is een prachtige illustratie van de synergie tussen anabasis en katabasis. Het proces van katabasis waarbij de zonnebloem sterft en desintegreert, draagt onmiddellijk de kiem in zich van nieuw leven dat verborgen ligt in de nieuwgevormde zaden. Zodra de zaden ontkiemen in een nieuwe omgeving begint het proces van anabasis of van de integratie en herstructurering van de omgeving immers opnieuw.
 
-Het voorbeeld laat ook zien hoe relatief tijd is en hoe elk leven als een kosmische dans kan worden gezien. De dans van de zonnebloem duurde grofweg honderd dagen. Onze dans duurt ongeveer een eeuw. Uit het zonnebloemvoorbeeld kunnen we dus leren dat we geduld moeten hebben met onze groei; het zal immers tijd kosten om onze sociale omgeving te transformeren. Het toont ook zo mooi aan dat we erop mogen vertrouwen dat alles al aanwezig is in onze omgeving. We hoeven alleen maar de tijd te nemen en de moed te hebben om onze omgeving te transformeren in de richting van onze groei.
+Het voorbeeld laat ook zien hoe relatief tijd is en hoe elk leven als een kosmische dans kan worden gezien. De dans van de zonnebloem duurde grofweg honderd dagen. Onze dans duurt ongeveer een eeuw. Uit het zonnebloempitvoorbeeld kunnen we dus leren dat we geduld moeten hebben met onze groei; het zal immers tijd kosten om onze sociale omgeving te transformeren. Het toont ook zo mooi aan dat we erop mogen vertrouwen dat alles al aanwezig is in onze omgeving. We hoeven alleen maar de tijd te nemen en de moed te hebben om onze omgeving te transformeren in de richting van onze groei.
 
-Merk op dat het zonnebloempit-voorbeeld ook laat zien hoe krachtig het concept van een verrijkte omgeving is: wanneer we de omgeving verrijken met de informatie in het zonnebloemzaadje, wordt de omgeving als het ware aangestuurd om de prachtige zonnebloem te groeien. Deze analogie kan ook worden toegepast op onze menselijke wereld en was precies wat Rolando bedoelde met Biodanza: het bieden van een verrijkte omgeving die onze ontogenese kan beïnvloeden. Of hoe Biodanza de informatie of de ecofactoren creëert die onze omgeving verrijken om ons als mens te laten evolueren en dit zowel op fysiologisch als op psychogisch, sociaal en emotioneel vlak. Net als in het zonnebloempit-voorbeeld kunnen we daarna in onze eigen sociale omgeving gaan ontkiemen en deze met onze groei transformeren.
+Merk op dat het zonnebloempit-voorbeeld ook laat zien hoe krachtig het concept van een verrijkte omgeving is: wanneer we de omgeving verrijken met de informatie in het zonnebloemzaadje, wordt de omgeving als het ware aangestuurd om de prachtige zonnebloem te groeien. Deze analogie kan ook worden toegepast op onze menselijke wereld en was precies wat Rolando bedoelde met Biodanza: het bieden van een verrijkte omgeving die onze ontogenese kan beïnvloeden. Of hoe Biodanza de informatie of de ecofactoren creëert die onze omgeving verrijken om ons als mens te laten evolueren en dit zowel op fysiologisch als op psychogisch, sociaal en emotioneel vlak. Net als in het zonnebloempitvoorbeeld kunnen we daarna in onze eigen sociale omgeving gaan ontkiemen en deze met onze groei transformeren.
 
  
 ### Het Universum als Zelforganiserende Structuur 
@@ -97,15 +98,13 @@ Dus in plaats van vast te houden aan de destructieve scheiding tussen mens en na
 
 Dit hoofdstuk bouwt voort op het werk van vijf invloedrijke en wiens inzichten ons kunnen helpen om de biologische aspecten die Rolando Toro in zijn Biodanza Model heeft ingebed beter te begrijpen:
 
-- Erwin Schrödinger die het leven expliciet definieerde als het structureren van "orde-uit-wanorde",
-
-- Ilia Prigogine die hiervoor de theorie ontwikkelde en de term "Dissipatieve Structuren" bedacht,
+- Erwin Schrödinger die het leven expliciet definieerde als het structureren van "orde-uit-wanorde" en Ilia Prigogine die hiervoor de theorie ontwikkelde en de term "Dissipatieve Structuren" bedacht,
 
 - Christian de Duve, één van de grondleggers van de biochemie, en
 
 - Humberto Maturana en Francisco Varela met hun concept van autopoiese.
 
-Merk op dat de subsecties in "Christian de Duve: een biochemische visie op het leven" altijd beginnen met een algemeen overzicht, gevolgd door subsecties met meer technische details. Ik heb ervoor gekozen om deze technische details in deze monografie op te nemen, omdat ze geïnteresseerde lezers kunnen helpen alle termen en concepten te begrijpen die slechts heel kort aan bod komen in de reader van de Biodanza lerarenopleiding "Module IV: Biologische Principes van Biodanza". De secties "Maturana en Varela: een systeemvisie op het leven" en "Links met vitaal onbewuste" zijn meer filosofisch van aard.
+Merk op dat de subsecties in "Christian de Duve: een Biochemische Visie op het Leven" altijd beginnen met een algemeen overzicht, gevolgd door subsecties met meer technische details. Ik heb ervoor gekozen om deze technische details in deze monografie op te nemen, omdat ze geïnteresseerde lezers kunnen helpen alle termen en concepten te begrijpen die slechts heel kort aan bod komen in de reader van de Biodanza lerarenopleiding "Module IV: Biologische Principes van Biodanza". De secties "Maturana en Varela: een Systeemvisie op het Leven" en "Links met Vitaal Onbewuste" zijn meer filosofisch van aard.
 
 \newpage 
 
@@ -121,28 +120,28 @@ Merk op dat @schrodinger1944 in zijn reeks lezingen ook de sleutelfuncties besch
 
 In eerste instantie lijkt de eigenschap dat het leven orde of structuur kan genereren in tegenspraak met de tweede wet van de thermodynamica, die stelt dat een systeem altijd streeft naar maximale entropie.
 
-Entropie kan losjes worden gedefinieerd als een fysieke grootheid die weergeeft hoe uitgespreid energie is. Het is dus de neiging van een systeem om te evolueren van een geconcentreerde energietoestand naar een energietoestand die meer verspreid is. Dit kan gemakkelijk worden begrepen aan de hand van een eenvoudig voorbeeld dat ieder van ons kent: als je een hete pot in een grote kamer zet, zal de pot afkoelen en zal de temperatuur in de kamer iets stijgen totdat de pot en de kamer dezelfde temperatuur hebben. Hierdoor wordt de geconcentreerde warmte-energie uit de pot mooi verspreid over de gehele ruimte. Dus de toename van de entropie is een analogie van katabasis binnen de natuurkunde.
+Entropie kan losjes worden gedefinieerd als een fysieke grootheid die weergeeft hoe uitgespreid energie is. Het is dus de neiging van een systeem om te evolueren van een geconcentreerde energietoestand naar een energietoestand die meer verspreid is. Dit kan gemakkelijk worden begrepen aan de hand van een eenvoudig voorbeeld dat ieder van ons kent: als je een hete pot in een grote kamer zet, zal de pot afkoelen en zal de temperatuur in de kamer iets stijgen totdat de pot en de kamer dezelfde temperatuur hebben. Hierdoor wordt de geconcentreerde warmte-energie uit de pot mooi verspreid over de gehele ruimte. Dus de toename van de entropie is de natuurkundige analogie van katabasis.
 
 Schrödinger begreep dat het leven deze tweede wet niet schendt. Doordat het een *open* systeem is, kan het interageren met de omgeving, en door te eten en te ademen moet er een manier zijn om ‘de orde te concentreren’ of een hogere, meer geconcentreerde energietoestand te handhaven.
 
-Prigogine ontwikkelde het theoretische kader voor een type chemie dat essentieel is voor het leven [@prigogineStengers1984]. Hij realiseerde zich dat de chemie van het leven totaal anders is dan de meeste chemische systemen die tot dan toe werden bestudeerd. De chemie en de processen van het leven zijn inderdaad zeer niet-lineair met veel terugkoppelingslussen of feedbackloops^[Er ontstaat een feedbackloop in een chemisch systeem als een deel van de geproduceerde moleculen opnieuw als input wordt gebruikt.]. Deze chemie bevindt zich ver van een evenwichtstoestand doordat er voortdurend materie en energie doorheen het systeem wordt gestuurd. 
+Prigogine ontwikkelde het theoretische kader voor een type chemie dat essentieel is voor het leven [@prigogineStengers1984]. Hij realiseerde zich dat de chemie van het leven totaal anders is dan de meeste chemische systemen die tot dan toe werden bestudeerd. De chemie en de processen van het leven zijn inderdaad zeer niet-lineair met veel terugkoppelingslussen of feedbacklussen^[Er ontstaat een feedbacklus in een chemisch systeem als een deel van de geproduceerde moleculen, de output opnieuw als input wordt gebruikt.]. Deze chemie bevindt zich ver van een evenwichtstoestand doordat er voortdurend materie en energie doorheen het systeem wordt gestuurd. 
 
-Dit laatste weten we intuïtief: ons lichaam bevindt zich doorgaans in een hogere energietoestand dan het overeenkomstige materiaal in een "niet-levende" staat. We kunnen dat eenvoudigweg erkennen, omdat we meestal warmer zijn dan de kamer waarin we ons bevinden, en een ruwe manier om in te schatten hoe lang we dood zijn, is door de temperatuur van een lijk te meten. Om onze hogere energietoestand te behouden, om chemische stoffen in onze cellen te concentreren en om daaruit complexe moleculen, cellen en weefsels op te bouwen, moeten we blijven eten en ademen.  
+Dit laatste weten we intuïtief: ons lichaam bevindt zich doorgaans in een hogere energietoestand dan het overeenkomstige materiaal in een "niet-levende" staat. We kunnen dat eenvoudigweg erkennen, omdat we meestal warmer zijn dan de kamer waarin we ons bevinden, en een ruwe manier om in te schatten hoe lang iemand dood is, is door de temperatuur van het lijk te meten. Om onze hogere energietoestand te behouden, om chemische stoffen in onze cellen te concentreren en om daaruit complexe moleculen, cellen en weefsels op te bouwen, moeten we blijven eten en ademen.  
 
 \pagebreak 
 
 ### Dissipatieve Structuren
 
-Prigogine ontdekte dat complexe zelforganiserende systemen spontaan kunnen ontstaan als ze open zijn en veel energie en materie kunnen uitwisselen met hun omgeving. Essentieel voor deze *anabasis* is een chaos van materie en een stroom van energie door het systeem. In chemische systemen, en het leven is voor een groot deel chemie, maakt de instroom van energie het mogelijk om structuur te genereren, terwijl er door dissipatie veel entropie wordt geproduceerd. Dissipatie betekent dat energie van een meer geconcentreerde energievorm naar een minder geconcentreerde energievorm is omgezet. Dissipatie is dus onomkeerbaar, wat de pijl van de tijd aan het leven toevoegt. De omzetting van energie in warmte vindt plaats in de meeste onderliggende biochemische reacties. Deze kunnen dus niet worden omgekeerd zonder de toevoeging van nieuwe energie. Daarom wordt een groot deel van de geconcentreerde energie die de cellen binnendringt via zonlicht of chemische energie onder de vorm van voedsel, verspreid in een minder geconcentreerde energievorm: warmte.
+Prigogine ontdekte dat complexe zelforganiserende systemen spontaan kunnen ontstaan als ze open zijn en veel energie en materie kunnen uitwisselen met hun omgeving. Essentieel voor deze "anabasis" is een chaos van materie en een stroom van energie door het systeem. In chemische systemen, en het leven is voor een groot deel chemie, maakt de instroom van energie het mogelijk om structuur te genereren, terwijl er door dissipatie veel entropie wordt geproduceerd. Dissipatie betekent dat energie van een meer geconcentreerde energievorm naar een minder geconcentreerde energievorm is omgezet. Dissipatie is dus onomkeerbaar, wat de pijl van de tijd aan het leven toevoegt. De omzetting van energie in warmte vindt plaats in de meeste onderliggende biochemische reacties. Deze kunnen dus niet worden omgekeerd zonder de toevoeging van nieuwe energie. Daarom wordt een groot deel van de geconcentreerde energie die de cellen binnendringt via zonlicht of chemische energie onder de vorm van voedsel, verspreid in een minder geconcentreerde energievorm: warmte.
 
-De structuur die spontaan ontstaat in levende organismen schendt dus de tweede wet niet omdat ze gepaard gaat met de stijging van de entropie door de afvoer van warmte. Dat laat opnieuw zien hoe de processen van anabasis en katabasis hand in hand gaan. Prigogine bedacht daarom de nieuwe term *dissipatieve structuren* voor dergelijke systemen.
+De structuur die spontaan ontstaat in levende organismen schendt dus de tweede wet niet omdat ze gepaard gaat met de stijging van de entropie door de afvoer van warmte. Dat laat opnieuw zien hoe de processen van anabasis en katabasis hand in hand gaan. Prigogine bedacht daarom de nieuwe term "dissipatieve structuren" voor dergelijke systemen.
 
 ### Attractoren
 
-In de reader van de Biodanza lerarenopleiding “Module II Vitaal Onbewuste en Biocentrisch Principe” gebruikt Rolando Toro vaak de term *attractor*. Dissipatieve structuren hebben doorgaans meerdere attractoren, dat wil zeggen staten, regimes, vormen of structuren waarnaar ze spontaan evolueren. De specifieke attractor waarrond het systeem zichzelf organiseert, hangt sterk af van de initiële omgevingsomstandigheden. Merk op dat dissipatieve structuren ook worden gekenmerkt door feedbacklussen. Deze feedbacklussen zorgen voor een soort homeostase zodat het systeem bij veranderingen in de omgeving,  bij zijn huidige attractor kan blijven. Sommige omgevingsstimuli worden echter versterkt door de feedbacklussen en kunnen de dissipatieve structuur van attractor laten wisselen en zo een regimewisseling teweegbrengen.
+In de reader van de Biodanza lerarenopleiding “Module II Vitaal Onbewuste en Biocentrisch Principe” gebruikt Rolando Toro vaak de term "attractor". Dissipatieve structuren hebben doorgaans meerdere attractoren, dat wil zeggen staten, regimes, vormen of structuren waarnaar ze spontaan evolueren. De specifieke attractor waarrond het systeem zichzelf organiseert, hangt sterk af van de initiële omgevingsomstandigheden. Merk op dat dissipatieve structuren ook worden gekenmerkt door feedbacklussen. Deze feedbacklussen zorgen voor een soort homeostase zodat het systeem bij veranderingen in de omgeving,  bij zijn huidige attractor kan blijven. Sommige omgevingsstimuli worden echter versterkt door de feedbacklussen en kunnen de dissipatieve structuur van attractor laten wisselen en zo een regimewisseling teweegbrengen.
 
 Prigogine argumenteerde dat de chemie in cellen, de cellen zelf, weefsels, organen, organismen, populaties van organismen, ecosystemen en onze gehele aarde kunnen worden gezien als dissipatieve structuren [@prigogineStengers1984].
-Slijmzwammen zijn een voorbeeld van een levend systeem dat vaak verandert van attractor, zie Figuur \@ref(fig:Dictyostelium). Dictyostelium-slijmzwammen brengen het grootste deel van hun leven door als afzonderlijke eencellige amoebes. Maar bij stress geeft één van de amoeben een chemisch signaalmolecule *cAMP* af. Anderen detecteren dat signaal en reageren op twee manieren: de amoebe beweegt naar het signaal toe en scheidt zelf ook cAMP af, waardoor het signaal effectief wordt versterkt. Het signaal triggert dus een feedbacklus die er uiteindelijk voor zorgt dat het systeem overschakelt van hun huidige attractor – een toestand van vrijlevende amoeben – naar een nieuwe attractor – het vruchtlichaam – die sporen vrijgeeft en de slijmzwammen naar nieuwe omgevingen zal verspreiden (zie bijvoorbeeld youtube clip https://youtu.be/bkVhLJLG7ug).
+Slijmzwammen zijn een voorbeeld van een levend systeem dat vaak verandert van attractor, zie Figuur \@ref(fig:Dictyostelium). Dictyostelium-slijmzwammen brengen het grootste deel van hun leven door als afzonderlijke eencellige amoebes. Maar bij stress geeft één van de amoeben een biochemische signaalmolecule cAMP af. Anderen detecteren dat signaal en reageren op twee manieren: de amoebe beweegt naar het signaal toe en scheidt zelf ook cAMP af, waardoor het signaal effectief wordt versterkt. Het signaal triggert dus een feedbacklus die er uiteindelijk voor zorgt dat het systeem overschakelt van hun huidige attractor – een toestand van vrijlevende amoeben – naar een nieuwe attractor – het vruchtlichaam – die sporen vrijgeeft en de slijmzwammen naar nieuwe omgevingen zal verspreiden (zie bijvoorbeeld youtube clip https://youtu.be/bkVhLJLG7ug).
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
 cat('
@@ -159,7 +158,7 @@ cat('
 knitr::include_graphics("./figs/Dictyostelida.jpg")
 ```
 
-Het Dictyostelium-voorbeeld laat ook duidelijk dat instincten heel precies zijn en hoe ze diep verankerd zijn in de biochemie van het leven. We kunnen in het voorbeeld de instincten van herkennen
+Het Dictyostelium-voorbeeld laat ook duidelijk dat instincten heel precies zijn en hoe ze diep verankerd zijn in de biochemie van het leven. We kunnen in het voorbeeld de instincten herkennen van
 
 - exploratiegedrag bij vrijlevende amoeben
 - tropisme/chemotaxis wanneer alle amoeben zich omdraaien en in de richting van het cAMP-signaal beginnen te bewegen
@@ -186,12 +185,14 @@ In de reader van de Biodanza lerarenopleiding "Module II Vitaal Onbewuste en Bio
 
 Omdat de temperatuur op aarde ongeveer stabiel blijft, wordt er ongeveer evenveel energie in de vorm van warmte naar de ruimte uitgestraald als wat binnenkomt onder de vorm van fotonen van de zon. Omdat de energie-inhoud van warmte lager en meer verspreid is, heeft deze een hogere entropie dan die van het binnenkomend zonlicht. Omdat er bijna geen materie wordt uitgewisseld tussen de aarde en de ruimte, moet materie worden gerecycleerd en is het leven inherent cyclisch.
 
-Deze cyclische aard van het leven met zijn eeuwige terugkeer is de sleutel tot vernieuwing en vitaliteit. Dat wordt in alle menselijke culturen erkend zoals blijkt uit hun rijke rituelen die deze cyclische oorsprong vieren. Biodanza erkent het belang van verbinding en resonantie met onze cyclische oorsprong. Biologische regressie in Biodanza is inderdaad een moment van terugkeer naar en verbinding met onze oorsprong. Dat initieert en versterkt vernieuwingsprocessen, zowel op biologisch, fysiologisch als op psychologisch, sociaal en emotioneel vlak.
+Deze cyclische aard van het biologische leven met zijn eeuwige terugkeer is de sleutel tot vernieuwing en vitaliteit. Dat wordt in alle menselijke culturen erkend zoals blijkt uit hun rijke rituelen die deze cyclische oorsprong vieren. Maar ze zijn door ons westerse denken echter in onbruik geraakt. 
+
+Biodanza erkent het belang van verbinding en resonantie met onze cyclische oorsprong. Biologische regressie in Biodanza is inderdaad een moment van terugkeer naar en verbinding met onze oorsprong. Dat initieert en versterkt vernieuwingsprocessen, zowel op biologisch, fysiologisch als op psychologisch, sociaal en emotioneel vlak.
 
 
 \newpage 
 
-## de Duve: een Biochemische Visie op Leven 
+## de Duve: een Biochemische Visie op het Leven 
 
 In zijn boek "Life Evolving - Molecules, Mind and Meaning", gaf @deDuve2002 een heel eenvoudige maar briliante definitie van leven: 
 
@@ -262,12 +263,12 @@ knitr::include_graphics("./figs/ATP-ADP.png")
 
 Bijna alle moleculen van levende organismen zijn samengesteld uit
 
-- Lipiden, oliën en vetten, voor opslag en als bouwstenen voor membranen,
+- Lipiden, oliën en vetten, voor energieopslag en als bouwstenen voor membranen,
 - Koolhydraten, suikers, voor het opslaan van energie en als ruggengraat van grote biomoleculen,
-- Aminozuren, de bouwstenen van eiwitten, die de werkpaarden van een cel zijn en het merendeel van de chemische reacties faciliteren, en
-- Nucleïnezuren, bouwstenen van RNA en DNA, die worden gebruikt voor het opslaan, doorgeven en gebruiken van de genetische informatie die we van onze ouders erven.
+- Aminozuren, de bouwstenen van eiwitten die de werkpaarden van een cel zijn en het merendeel van de chemische reacties faciliteren, en
+- Nucleïnezuren, bouwstenen van RNA en DNA die worden gebruikt voor het opslaan, doorgeven en gebruiken van de genetische informatie die we van onze ouders erven.
 
-Hieronder gaan we dieper in op elk van deze bouwstenen. Lezers die technische details willen overslaan, kunnen meteen naar gaan naar Sectie \@ref(lifeChemistry) Leven is Chemie.
+Hieronder gaan we dieper in op elk van deze bouwstenen. Lezers die technische details willen overslaan, kunnen meteen gaan naar Sectie \@ref(lifeChemistry) Leven is Chemie.
 
 ##### Lipiden
 
@@ -276,9 +277,7 @@ Hieronder gaan we dieper in op elk van deze bouwstenen. Lezers die technische de
 knitr::include_graphics("./figs/Cell_membrane_detailed_diagram_4.svg")
 ```
 
-Lipiden, vetten en oliën worden gebruikt voor opslag. Een belangrijke klasse van lipiden, de fosfolipiden, vormen echter de bouwblokken voor de membranen van cellen en eencellige compartimenten die organellen worden genoemd, zie Figuur \@ref(fig:lipids). Fosfolipiden hebben inderdaad een polaire kop die zich graag in water bevindt en een lange apolaire staart die zich niet met water vermengt. Daarom worden in waterige oplossingen spontaan dubbellagen van fosfolipidemoleculen gevormd.
-
-\pagebreak 
+Lipiden, vetten en oliën worden gebruikt voor de opslag van energie, hormoonregulatie, doorgeven van zenuwimpulsen, bescherming van vitale organen en transport van vetoplosbare nutriënten. Bovendien zijn een belangrijke klasse van lipiden, de fosfolipiden, de bouwblokken voor de membranen van cellen en eencellige compartimenten die organellen worden genoemd, zie Figuur \@ref(fig:lipids). Fosfolipiden hebben inderdaad een polaire kop die zich graag in water bevindt en een lange apolaire staart die zich niet met water vermengt. Daarom worden in waterige oplossingen spontaan dubbellagen van fosfolipidemoleculen gevormd.
 
 Membranen vormen de basis voor het concentreren van specifieke moleculen in (compartimenten van) levende cellen. Hierdoor kunnen cellen een onevenwicht van chemische moleculen opbouwen die werk kunnen verrichten terwijl een concentratiegradiënt spontaan dissipeert naar evenwicht. Fosfolipiden zijn dus van cruciaal belang voor het creëren van de randvoorwaarden die nodig zijn voor cellulaire organisatie.
 
@@ -303,12 +302,11 @@ cat('
 )
 ```
 
-\pagebreak 
 
 ##### Aminozuren {#sectionAminoAcids}
 
 Aminozuren op zichzelf zijn eenvoudige moleculen (Figuur \@ref(fig:aminoAcids)).
-Hoewel er in het universum honderden aminozuren voorkomen, gebruikt het leven er slechts twintig en combineert het ze in lange moleculen, polymeren, die eiwitten worden genoemd. Eiwitten zijn heteropolymeren, bestaande uit de 20 aminozuren die zijn gerangschikt in lange sequenties die van eiwit tot eiwit verschillen. In tegenstelling tot zetmeel, dat alleen uit glucosemoleculen bestaat die allemaal identiek zijn, zijn eiwitten dus ook dragers van informatie.
+Hoewel er in het universum honderden aminozuren voorkomen, gebruikt het biologische leven er slechts twintig en combineert het ze in lange moleculen, polymeren, die eiwitten worden genoemd. Eiwitten zijn heteropolymeren, bestaande uit de 20 aminozuren die zijn gerangschikt in lange sequenties die van eiwit tot eiwit verschillen. In tegenstelling tot zetmeel, dat alleen uit glucosemoleculen bestaat die allemaal identiek zijn, zijn eiwitten dus ook dragers van informatie.
 
 (ref:aminoAcidsCap) Aminozuren zijn eenvoudige moleculen. Ze kunnen worden gecombineerd in lange moleculen, polymeren, ook wel eiwitten genoemd. Hun lange keten van aminozuren vouwt zich spontaan op in een complexe 3D-structuur die essentieel is voor hun biologische functie (Bron: thebiologynotes.com)
 
@@ -317,7 +315,7 @@ Hoewel er in het universum honderden aminozuren voorkomen, gebruikt het leven er
 knitr::include_graphics("./figs/Amino-acids-and-Proteins.jpeg")
 ```
 
-Essentieel voor hun biologische functie van een eiwit is dat zijn lange keten van aminozuren zich spontaan opvouwt tot een specifieke complexe 3D-structuur, die wordt bepaald door de eigenschappen en de specifieke volgorde van de aminozuren.
+Essentieel voor hun biologische functie van een eiwit is hoe zijn lange keten van aminozuren zich spontaan opvouwt tot een specifieke complexe 3D-structuur, die wordt bepaald door de eigenschappen en de specifieke volgorde van de aminozuren.
 
 Veel eiwitten werken namelijk als een "slot" waarin specifieke (bio)moleculen als "sleutel" passen. Hierdoor kunnen eiwitten moleculen dicht bij elkaar brengen en chemische reacties bevorderen zonder te worden geconsumeerd. Dit proces wordt ook wel katalyse genoemd en eiwitten die katalyse uitvoeren worden enzymen genoemd, zie Figuur \@ref(fig:enzyme).
 
@@ -326,6 +324,8 @@ knitr::include_graphics("./figs/EnzymePadlockKey.png")
 ```
 
 Eiwitten zijn de belangrijkste werkpaarden van de cel en ze zijn belangrijk voor het verplaatsen van voedsel, het verteren van voedsel, het kopiëren van DNA, het geven van celstructuur, het beïnvloeden van de snelheid waarmee andere eiwitten werken, ...
+
+\pagebreak
 
 ##### Nucleïnezuren {#sectionNucleicAcids}
 
@@ -346,7 +346,7 @@ Er bestaat algemene consensus dat het leven waarschijnlijk begon met het gebruik
 
 Het leven is ook één omdat we dezelfde genetische code delen, maar we verwijzen naar Sectie \@ref(lifeInformation) "Leven is Informatie" voor meer details.
 
-```{r RNAvsDNA, fig.cap='Nucleïnezuur: RNA (links) en DNA (rechts). RNA verschijnt doorgaans in een enkele streng en DNA als een dubbelstrengs molecuul (Bron: Wikipedia)', out.width='50%', fig.align='center', echo=FALSE}
+```{r RNAvsDNA, fig.cap='Nucleïnezuur: RNA (links) en DNA (rechts). RNA verschijnt doorgaans in een enkele streng en DNA als een dubbelstrengige molecule (Bron: Wikipedia)', out.width='50%', fig.align='center', echo=FALSE}
 knitr::include_graphics("./figs/Difference_DNA_RNA-EN.svg")
 ```
 
@@ -362,7 +362,7 @@ knitr::include_graphics("./figs/DNA_Nucleotides.jpeg")
 
 ### Leven is Chemie {#lifeChemistry}
 
-"Het leven is chemie" omdat een cel bestaat uit een complex netwerk van chemische reacties die met elkaar verbonden zijn. Er bestaan veel feedbackloops in de chemie van een cel, waardoor deze sterk niet-lineair is. De feedbackloops zorgen ervoor dat een cel in zijn regime kan blijven (homeostase) of om kan schakelen van regime of attractor als reactie op externe en/of interne stimuli. Figuur \@ref(fig:chemicalReactionsCell) geeft een overzicht van de meeste reacties in een levende cel. Ik heb dit overzicht alleen opgenomen om de lezer een idee te geven van de complexiteit en de rijkdom van de chemie in een individuele cel. U kunt inzoomen op deze kaart op http://biochemical-pathways.com/#/map/1.
+"Het leven is chemie" omdat een cel bestaat uit een complex netwerk van chemische reacties die met elkaar verbonden zijn. Er bestaan veel feedbacklussen in de chemie van een cel, waardoor deze sterk niet-lineair is. De feedbacklussen zorgen ervoor dat een cel in zijn regime kan blijven (homeostase) of om kan schakelen van regime of attractor als reactie op externe en/of interne stimuli. Figuur \@ref(fig:chemicalReactionsCell) geeft een overzicht van de meeste reacties in een levende cel. Ik heb dit overzicht alleen opgenomen om de lezer een idee te geven van de complexiteit en de rijkdom van de chemie in een individuele cel. U kunt inzoomen op deze kaart op http://biochemical-pathways.com/#/map/1.
 
 ```{r chemicalReactionsCell, fig.cap='Netwerk van de belangrijkste reacties in een levende cel (Bron: Dr. Gerhard Michal, Roche)', out.width='100%', fig.asp=.8, fig.align='center', echo=FALSE}
 knitr::include_graphics("./figs/roche_pathways.jpg")
@@ -403,7 +403,6 @@ knitr::include_graphics("./figs/Citric_acid_cycle_with_aconitate_2.svg")
 
 We kunnen dit gedeelte afsluiten met een citaat van @deDuve2002: "Any living organism is a reflection of its enzyme arsenal".
  
-\pagebreak 
 
 #### Zelf-Organisatie
 
@@ -430,11 +429,10 @@ knitr::include_graphics("./figs/DyneinHeavyChainOnMT.png")
 
 Merk op dat eiwitten dus een centrale rol spelen in het leven. Ze zijn essentieel voor de katalyse en het geven van structuur. Een cel erft dus niet alleen genetische informatie, maar ook de ruimtelijke organisatie van een moedercel!
 
-\newpage 
 
 ### Leven is Informatie {#lifeInformation}
 
-Onze genetische informatie om al onze biomoleculen te bouwen, die we van onze ouders erven, is opgeslagen in ons DNA. DNA is een heteropolymeer of een lange keten van 4 verschillende bouwstenen, nucleotiden. De genetische informatie wordt dus opgeslagen in een alfabet van 4 letters. Dit zijn adenine (A), cytosine (C), guanine (G) en thymine (T) voor DNA.
+Onze genetische informatie om al onze biomoleculen te bouwen, die we van onze ouders erven, is opgeslagen in ons DNA. DNA is een heteropolymeer of een lange keten van 4 verschillende bouwstenen, nucleotiden. De genetische informatie wordt dus opgeslagen in een alfabet van 4 letters. Dat zijn adenine (A), cytosine (C), guanine (G) en thymine (T) voor DNA.
 
 Het maakt geen fysisch of chemisch verschil wat de identiteit van het volgende nucleotide in de DNA-keten is. Ons DNA kan dus worden gezien als een coderingssysteem om genetische informatie op te slaan en door te geven van de ene generatie naar de volgende. Het leven is dus ook informatie en niet alleen maar chemie. Het is verbazingwekkend hoe variatie in de volgorde van deze "vierlettercode" kan leiden tot zo'n rijkdom aan verschillende kenmerken en functies die we waarnemen tussen verschillende individuen van dezelfde soort, alsook tussen individuen van verschillende soorten.
 
@@ -522,13 +520,13 @@ In deze sectie leerden we dat DNA dus de drager is van genetische informatie. RN
 
 ## Maturana en Varela: een Systeemvisie op het Leven {#maturanaVarela}
 
-In de reader van de Biodanza lerarenopleiding “Module IV: Biologische Aspecten van Biodanza” introduceerde Rolando Toro ook de term *autopoiesis*.
+In de reader van de Biodanza lerarenopleiding "Module IV: Biologische Aspecten van Biodanza" introduceerde Rolando Toro ook de term *autopoiesis*.
 
-@capraLuisi2014 schrijven in hun boek "The Systems View of Life", dat de term werd geïntroduceerd door Varela and Maturana in the 1970s. *Auto*, betekent *zelf* en refereert naar de autonomie van zelforganiserende systemen; en *poiesis* (die dezelfde Griekse oorsprong heeft als het woord poëzie) betekent *makend*. Dus, *autopoiesis* betekent zelf-makend". 
+@capraLuisi2014 schrijven in hun boek "The Systems View of Life", dat de term werd geïntroduceerd door Varela and Maturana in the 1970s. "Auto", betekent "zelf" en refereert naar de autonomie van zelforganiserende systemen; en "poiesis" (die dezelfde Griekse oorsprong heeft als het woord poëzie) betekent "makend". Dus, "autopoiesis" betekent "zelf-makend". 
 
 Ze gaan daarna verder dat "het belangrijkste kenmerk van het leven zelfbehoud is dankzij het interne netwerk van een chemisch systeem dat zichzelf voortdurend reproduceert binnen zijn eigen grenzen". 
 
-Een levende cel is inderdaad de kleinste autopoëtische eenheid. De cel bestaat uit een complex intern netwerk van chemische reacties en dit binnen de grenzen van zijn buitenste membraan. Het kan zichzelf organiseren, in stand houden, kopieën van zichzelf maken en dit met de enzymatische arsenaal die in de cel zelf aanwezig is.
+Een levende cel is inderdaad de kleinste autopoëtische eenheid. De cel bestaat uit een complex intern netwerk van chemische reacties en dat binnen de grenzen van zijn buitenste membraan. Het kan zichzelf organiseren, in stand houden, kopieën van zichzelf maken en dit met de enzymatische arsenaal die in de cel zelf aanwezig is.
 
 Netwerken van cellen worden vervolgens gecombineerd in grotere autopoëtische eenheden, b.v.
 
@@ -557,7 +555,7 @@ Korstmossen zijn een ander overtuigend voorbeeld van emergente eigenschappen (Fi
 knitr::include_graphics(c("./figs/lichen.jpeg","./figs/LichenDiagram.png"))
 ```
 
-Hoewel korstmossen macroscopisch op één wezen lijken, zijn het feitelijk twee wezens: een groene alg met de kostbare gave van fotosynthese die zonlicht en lucht in suikers verandert, en een schimmel die onderdak biedt en de kunst heeft om mineralen uit de rotsen te halen, maar die zelf geen suikers kan maken. Ze zijn verenigd in een symbiose die zo intens is dat ze samen een geheel nieuw organisme vormen. Toen biologen dit unieke huwelijk tussen algen en schimmels probeerden te ontrafelen, kweekten ze ze eerst in het laboratorium onder ideale omstandigheden. Onder deze omstandigheden bleven ze echter allebei gelukkig naast elkaar leven. De unieke eigenschappen van korstmossen konden dus niet worden afgeleid door beide soorten afzonderlijk te bestuderen. Pas toen de wetenschappers hen blootstelden aan barre ecofactoren, gingen ze opnieuw samenwerken en verkregen ze opnieuw hun unieke transformerende kracht om op rotsen te groeien en deze heel langzaam in een vruchtbare omgeving te veranderen [@Kimmerer2013].
+Hoewel korstmossen macroscopisch op één wezen lijken, zijn het feitelijk twee wezens: een groene alg met de kostbare gave van fotosynthese die zonlicht en lucht in suikers verandert, en een schimmel die onderdak biedt en de kunst heeft om mineralen uit de rotsen te halen, maar die zelf geen suikers kan maken. Ze zijn verenigd in een symbiose die zo intens is dat ze samen een geheel nieuw organisme vormen. Toen biologen dit unieke huwelijk tussen algen en schimmels probeerden te ontrafelen, kweekten ze deze eerst in het laboratorium onder ideale omstandigheden. Onder deze omstandigheden bleven ze echter allebei gelukkig naast elkaar leven. De unieke eigenschappen van korstmossen konden dus niet worden afgeleid door beide soorten afzonderlijk te bestuderen. Pas toen de wetenschappers hen blootstelden aan barre ecofactoren, gingen ze opnieuw samenwerken en verkregen ze opnieuw hun unieke transformerende kracht om op rotsen te groeien en deze heel langzaam in een vruchtbare omgeving te veranderen [@Kimmerer2013].
 
 ### Leven als een Emergente Eigenschap 
 
@@ -579,9 +577,7 @@ Varela ziet het leven als een gestalt van drie domeinen [@capraLuisi2014]:
 
 Volgens hem is het leven de synergie van deze drie domeinen, die hij de "embodied mind" noemt. 
 
-Rolando daarentegen ziet het leven als het organiserende principe van het universum. Volgens hem kan het leven dus worden gezien als de creatieve kracht die een steeds evoluerende gestalt van omgeving, autopoëtische eenheden en cognitie ontwikkelt.
 
-\pagebreak 
 
 ### Ons Sociale Systeem als een Emergente Eigenschap
 
@@ -593,7 +589,7 @@ Op het niveau van het netwerk van mensen, manifesteert ons rijke psycho-socio-em
 
 ### Gedeelde "Bio-logica" van Cellen tot Sociale Systemen
 
-Net als het biochemische systeem van een cel is ons sociale systeem een open systeem met sociale feedbackloops. Elk sociaal systeem houdt zichzelf op een stabiele maar dynamische manier in stand, door nieuwe leden, materialen en ideeën in het systeem binnen te laten, en die te getransformeren door de interne regels van de organisatie van het systeem [@capraLuisi2014], wat leidt tot een soort "sociale homeostase". Soms kunnen deze nieuwe ideeën zo krachtig zijn dat ze het sociale systeem vanzelf transformeren, dat wil zeggen dat de ideeën het sociale systeem van attractor laten omschakelen. Op individueel niveau zijn de transformaties die het sociale systeem oplegt soms gelukzalig, maar ze kunnen ook trauma's veroorzaken. De observatie dat de ‘biologische logica’ of het organisatiepatroon van een eenvoudige cel vergelijkbaar is met die van een hele sociale structuur, heeft grote implicaties.
+Net als het biochemische systeem van een cel is ons sociale systeem een open systeem met sociale feedbacklussen. Elk sociaal systeem houdt zichzelf op een stabiele maar dynamische manier in stand, door nieuwe leden, materialen en ideeën in het systeem binnen te laten, en die te transformeren door de interne regels van de organisatie van het systeem [@capraLuisi2014], wat leidt tot een soort "sociale homeostase". Soms kunnen deze nieuwe ideeën zo krachtig zijn dat ze het sociale systeem vanzelf transformeren, dat wil zeggen dat de ideeën het sociale systeem van attractor laten omschakelen. Op individueel niveau zijn de transformaties die het sociale systeem oplegt soms gelukzalig, maar ze kunnen ook trauma's veroorzaken. De observatie dat de ‘biologische logica’ of het organisatiepatroon van een eenvoudige cel vergelijkbaar is met die van een hele sociale structuur, heeft grote implicaties.
 
 Zoals @Kimmerer2013 zo overtuigend naar voren brengt in haar boek "Een vlecht van heilig gras", nodigen deze inzichten ons ook uit om te leren van alle levensvormen die ons omringen. Het korstmosvoorbeeld kan ons leren over onze relaties en de samenleving. In de labo-omgeving, toen de omstandigheden voor beide organismen optimaal waren, hadden zowel de schimmel als de groene algen geen interactie. Pas toen de omgeving voor hen beiden extreem werd, bundelden ze hun krachten en namen hun unieke korstmosvorm aan waar ze nauw met elkaar interageren en verweven zijn. Een soortgelijke verstoring van onze sociale functie is te zien in onze moderne westerse samenleving, die wordt overspoeld door consumptiegoederen en die individualisme en eenzaamheid cultiveert.
 
@@ -601,7 +597,7 @@ Deze gedeelde biologische logica, van cellen tot aan ons sociaal-symbolische lee
 
 Deze bio-psycho-socio-emotionele invalshoek is buitengewoon interessant, maar valt buiten het bestek van deze monografie. 
 
-## Linken met het Vitaal Onbewuste
+## Links met het Vitaal Onbewuste
 
 "Het leven is één"! Alle soorten zijn ontstaan uit dezelfde populatie van voorouderlijke cellen, ze gebruiken dezelfde chemie en hetzelfde coderingssysteem om hun genetische informatie op te slaan. De rijkdom aan levende soorten, met hun eigen zintuiglijke arsenaal, zijn allemaal ontstaan uit onze laatste universele gemeenschappelijke voorouder door evolutie als gevolg van de interacties met hun omgeving. Dat leidde tot een differentiatie van de uitdrukking van de overkoepelende instincten die ze delen^[Overkoepelende instincten: de uitdrukking van het vecht- en vluchtinstinct is bijvoorbeeld gedifferentieerd tot doornige structuren in planten, de indrukwekkende elegante vlucht van een gazelle met snelheden tot 100 km/u, en trolgedrag van mensen op sociale media]. We voelen dus aan dat alle levende wezens nauw met elkaar verbonden zijn. Bovendien volgen de emergente eigenschappen van netwerken van levende wezens dezelfde "biologische logica" en suggereren ze een fundamentele eenheid van leven.
 
@@ -613,5 +609,22 @@ Het is dus duidelijk dat alle biologische organismen dezelfde gemeenschappelijke
 
 Dit gedeelde psychisme of vitaal onbewuste omvat dus de oorsprong van onze instincten, lichamelijke gewaarwordingen en diepere kennis die we onmiddellijk vanuit onze "embodied mind" kunnen ervaren. Vivencia is een pad om diep met het vitaal onbewuste te verbinden, om het te versterken en te herbalanceren, en dit langs de vijf lijnen van Biodanza.
 
-Nu we een dieper inzicht hebben verworven van Rolando Toro's visie op het leven, zullen we in de volgende hoofdstukken dieper ingaan op waar, hoe en waarom de biologische aspecten voorkomen in het Biodanza-Model. Merk wel op dat veel van de concepten die we vanuit biologisch perspectief zullen bespreken ook een belangrijke sociologische, psychologische, emotionele en mystieke dimensie hebben, aangezien een groot deel van ons menselijk leven zich afspeelt in het sociaal-symbolisch domein.
+## Rolando Toro's Visie op het Leven
+
+Nu we een dieper inzicht hebben verworven over de principes van het leven, kunnen we Rolando Toro's visie op het leven beter begrijpen. 
+Rolando Toro reduceert leven niet tot het biologische leven. 
+Voor hem is leven het organiserende principe van het universum. 
+Vandaar zijn quote: "leven is de essentiële voorwaarde voor het ontstaan van het universum".
+
+Pas aan het einde van de monografie werd het voor mij duidelijk dat Rolando zijn visie op leven eenvoudigweg heeft opgenomen in het Model van Biodanza: "Principi di vita cosmica Anabasi" en "Principi di vita cosmica Catabasi".
+Leven bestaat uit de twee drijvende krachten anabasis en katabasis die aan de oorsprong liggen van alle structuur en dus van leven in het universum. 
+
+Die krachten vinden we op elke schaal terug. 
+Op de schaal van het volledige universum kan de oerknal als een groot katabasis event worden gezien. Een enorme vernietiging van iets die onmiddellijk de nucleus in zich droeg van nieuw leven in ons universum. Na die initiële flits van ontstaan, volgde de anabasis of de opbouw van alle rijkdom en structuur die we rondom ons waar kunnen nemen.    
+En als we elk van die structuren bestuderen zien we dat ze ook weer zijn ontstaan uit de pulsatie tussen Katabasis en Anabasis. Een pulsatie tussen respectievelijk vernietiging die de kiem van nieuw leven in zich draagt en de opbouw van structuur. 
+
+In tegenstelling tot Varella en Maturana die leven zien als een emergente eigenschap, als een gestalt van omgeving, een autopoëtische eenheid en cognitie, ziet Rolando het leven dus als het organiserende principe van het universum. Uitgedrukt in de taal van Varella en Maturana, ontwikkelen de twee creatieve krachten van het leven volgens Rolando dus een steeds evoluerende gestalt van omgeving, autopoëtische eenheden en cognitie. 
+Bovendien is leven voor Rolando nog veel alomvattender. Hij beperkt zich niet tot biologische leven waarin autopoëtische eenheden zijn betrokken. Alle structuren in het universum komen voor hem door het leven tot stand. "Het leven is één", één grote kosmische dans, of om het met Rolando's woorden te zeggen "het rijk van het leven omvat veel meer dan de planten, de dieren en de mens. Alles wat bestaat, van neutrino’s tot quasars, van edelsteen tot de meest subtiele gedachte, maakt deel uit van dit wonderbaarlijke levende systeem."
+
+Nu we een goed begrip hebben van Rolando's kijk op leven, zullen we in de volgende hoofdstukken dieper ingaan op waar, hoe en waarom de biologische aspecten voorkomen in het Biodanza-Model. Merk wel op dat veel van de concepten die we vanuit biologisch perspectief zullen bespreken ook een belangrijke sociologische, psychologische, emotionele en mystieke dimensie hebben, aangezien een groot deel van ons menselijk leven zich afspeelt in het sociaal-symbolisch domein.
 

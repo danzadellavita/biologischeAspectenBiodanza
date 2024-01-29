@@ -6,7 +6,7 @@ De biologische aspecten vormen de verticale as van het Biodanza-Model. Onderaan 
 knitr::include_graphics("./figs/biologischeAspectenBiodanzaDeelI.png")
 ```
 
-We beginnen met het ontstaan van het universum en eindigen met het ontstaan van het leven. Deze twee secties behandelen concepten uit de reader voor "Module IV: Biologische aspecten van Biodanza". 
+We beginnen met het ontstaan van het universum en eindigen met het ontstaan van het biologische leven. Deze twee secties behandelen concepten uit de reader voor "Module IV: Biologische aspecten van Biodanza". 
 
 ## Ontstaan van het Universum
 
@@ -16,7 +16,7 @@ Figuur \@ref(fig:evolutionUniverse) geeft een overzicht van de evolutie van het 
 knitr::include_graphics("./figs/originKosmos.jpg")
 ```
 
-De meest hangbare theorie is dat onze kosmos begon met de oerknal. Een zeer energierijke staat.
+De meest gangbare theorie is dat onze kosmos begon met de oerknal. Een zeer energierijke staat.
 
 Door de uitdijing koelde het heelal af waardoor een deel van de energie werd omgezet in waterstof en een fractie in zwaardere heliumkernen.
 
@@ -56,7 +56,7 @@ knitr::include_graphics("./figs/hires.jpeg")
 
 Uit supernova worden nieuwe nevels gevormd en deze zullen uiteindelijk leiden tot nieuwe sterren en het hele proces begint van vooraf aan.
 
-Door kernfusie in de sterren zijn dus de zwaardere atomen ontstaan waaruit uiteindelijk de biomoleculen van het leven worden opgebouwd. Wij zijn dus uit sterrenstof opgebouwd!
+Door kernfusie in de sterren zijn dus de zwaardere atomen ontstaan waaruit uiteindelijk de biomoleculen van het leven worden opgebouwd. Wij zijn dus opgebouwd uit sterrenstof!
 
 \newpage 
 
