@@ -34,7 +34,7 @@ We beginnen dit hoofdstuk met twee secties die meer technisch zijn en zich richt
 
 Alle soorten zijn voortgekomen uit dezelfde voorouderlijke populatie van cellen. Dit wordt ook wel dezelfde Last Universal Common Ancestor (LUCA) genoemd. In de levensboom worden de evolutionaire relaties tussen verschillende organismen (en groepen van organismen) samengevat. Alle levende wezens zijn uiteindelijk terug te voeren op LUCA die zich aan de wortel van de boom bevindt, zie Figuur \@ref(fig:treeOfLifeBis).
 
-```{r treeOfLifeBis, fig.cap='De levensboom is één van de belangrijkste organiserende principes in de biologie. Het toont de evolutionaire relaties tussen verschillende organismen en dat alle levende wezens uiteindelijk terug te voeren zijn op de laatste universele gemeenschappelijke voorouder die zich aan de wortel van de boom bevindt (Bron: wikipedia)', out.width='100%', fig.asp=.8, fig.align='center', echo=FALSE}
+```{r treeOfLifeBis, fig.cap='We hernemen hier de figuur van de levensboom. Het is één van de meest belangrijke organiserende principes in de biologie. Het toont de evolutionaire relaties tussen verschillende organismen en dat alle levende wezens uiteindelijk terug te voeren zijn op de laatste universele gemeenschappelijke voorouder die zich aan de wortel van de boom bevindt (Bron: wikipedia)', out.width='100%', fig.asp=.8, fig.align='center', echo=FALSE}
 knitr::include_graphics("./figs/Phylogenetic_tree.svg")
 ```
 
