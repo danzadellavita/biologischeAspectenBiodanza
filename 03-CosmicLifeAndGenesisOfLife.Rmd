@@ -27,7 +27,7 @@ Onder invloed van de zwaartekracht begon de materie zich vervolgens te clusteren
 
 Als gevolg van concentratieverschillen in deze eerste nevel trokken deze wolken zich verder samen en implodeerden ze uiteindelijk (zie Figuur \@ref(fig:genesisStar)). 
 
-```{r genesisStar, fig.cap='Onstaan van de eerste sterren (Bron: universe-review.ca)', out.width='100%', fig.asp=.8, fig.align='center', echo=FALSE}
+```{r genesisStar, fig.cap='Ontstaan van de eerste sterren (Bron: universe-review.ca)', out.width='100%', fig.asp=.8, fig.align='center', echo=FALSE}
 #knitr::include_graphics("https://universe-review.ca/I08-13-firststars6.jpg")
 knitr::include_graphics("./figs/I08-13-firststars6.jpeg")
 ```
