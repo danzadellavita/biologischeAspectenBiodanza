@@ -79,3 +79,6 @@ epigenetica-en-verrijkte-omgeving
 epigenetica-en-stress
 ontogenese-in-het-biodanza-model
 slotopmerkingen
+fig:rolandoToro
+fig:rolandoModel
+fig:model
