@@ -55,6 +55,9 @@ Monografie voor de titel van Biodanza docent
 Lieven Clement
 
 Supervisoren: Annette Heynderickx & Nadia Costa
+
+
+Gebruik de iconen < en > of het menu om door de monografie te navigeren
 </center>
 '
 )
