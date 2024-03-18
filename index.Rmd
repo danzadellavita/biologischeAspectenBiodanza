@@ -66,7 +66,7 @@ Gebruik de iconen < en > of het menu om door de monografie te navigeren
 
 # Opname van Lievens voordracht {.unnumbered}
 
-Met dank aan Luc Arretz die deze opname maakte tijdes de voordracht van Lievens eindwerk op 02/03/2024.   
+Met dank aan Luc Arretz die deze opname maakte tijdes de voordracht van Lievens eindwerk op 02/03/2024 (46 min).   
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
 cat('
