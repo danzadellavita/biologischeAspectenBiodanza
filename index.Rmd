@@ -64,6 +64,20 @@ Gebruik de iconen < en > of het menu om door de monografie te navigeren
 ```
 
 
+# Licentie and links {.unnumbered}
+
+Deze monografie wordt gedeeld onder de <a href= "https://creativecommons.org/licenses/by-nc-sa/4.0"> CC BY-NC-SA 4.0</a> licentie op `r format(Sys.time(), "%d %B, %Y")`.
+
+Het werk mag worden gebruikt voor niet-commerciële doeleinden. 
+
+Je bent vrij om het materiaal te kopiëren, te verspreiden en door te geven via elk medium of bestandsformaat. Om het te bewerken, te veranderen en afgeleide werken te maken. De gebruiker dient de maker van het werk te vermelden, een link naar de licentie te plaatsen en aan te geven of het werk veranderd is. Als je het werk hebt veranderd, of op het werk hebt voortgebouwd, moet je het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk.
+
+
+Een pdf versie van het eboek kan je hier vinden: [Biologische-Aspecten-van-Biodanza.pdf](https://biodanzabrugge.be/biologischeAspectenBiodanza/Biologische-Aspecten-van-Biodanza.pdf)
+
+An English version of this ebook can be found on: [BiologicalAspectsBiodanza](https://biodanzabrugge.be/biologicalAspectsBiodanza/)
+
+
 # Opname van Lievens voordracht {.unnumbered}
 
 Met dank aan Luc Arretz die deze opname maakte tijdes de voordracht van Lievens eindwerk op 02/03/2024 (46 min).   
@@ -81,19 +95,6 @@ cat('
 
 Link naar de opname: [https://youtu.be/mDkPJ8pmnYA](https://youtu.be/mDkPJ8pmnYA)
 
-
-# Licentie and links {.unnumbered}
-
-Deze monografie wordt gedeeld onder de <a href= "https://creativecommons.org/licenses/by-nc-sa/4.0"> CC BY-NC-SA 4.0</a> licentie op `r format(Sys.time(), "%d %B, %Y")`.
-
-Het werk mag worden gebruikt voor niet-commerciële doeleinden. 
-
-Je bent vrij om het materiaal te kopiëren, te verspreiden en door te geven via elk medium of bestandsformaat. Om het te bewerken, te veranderen en afgeleide werken te maken. De gebruiker dient de maker van het werk te vermelden, een link naar de licentie te plaatsen en aan te geven of het werk veranderd is. Als je het werk hebt veranderd, of op het werk hebt voortgebouwd, moet je het veranderde materiaal verspreiden onder dezelfde licentie als het originele werk.
-
-
-Een pdf versie van het eboek kan je hier vinden: [Biologische-Aspecten-van-Biodanza.pdf](https://biodanzabrugge.be/biologischeAspectenBiodanza/Biologische-Aspecten-van-Biodanza.pdf)
-
-An English version of this ebook can be found on: [BiologicalAspectsBiodanza](https://biodanzabrugge.be/biologicalAspectsBiodanza/)
 
 \mainmatter
 
