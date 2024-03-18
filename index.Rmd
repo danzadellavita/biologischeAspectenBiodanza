@@ -64,7 +64,7 @@ Gebruik de iconen < en > of het menu om door de monografie te navigeren
 ```
 
 
-# Licentie and links {.unnumbered}
+# Licentie and links {-}
 
 Deze monografie wordt gedeeld onder de <a href= "https://creativecommons.org/licenses/by-nc-sa/4.0"> CC BY-NC-SA 4.0</a> licentie op `r format(Sys.time(), "%d %B, %Y")`.
 
@@ -78,7 +78,7 @@ Een pdf versie van het eboek kan je hier vinden: [Biologische-Aspecten-van-Bioda
 An English version of this ebook can be found on: [BiologicalAspectsBiodanza](https://biodanzabrugge.be/biologicalAspectsBiodanza/)
 
 
-# Opname van Lievens voordracht {.unnumbered}
+# Opname van Lievens voordracht {-}
 
 Met dank aan Luc Arretz die deze opname maakte tijdes de voordracht van Lievens eindwerk op 02/03/2024 (46 min).   
 
