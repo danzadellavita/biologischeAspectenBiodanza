@@ -80,7 +80,7 @@ An English version of this ebook can be found on: [BiologicalAspectsBiodanza](ht
 
 # Opname van Lievens voordracht {-}
 
-Met dank aan Luc Arretz die deze opname maakte tijdes de voordracht van Lievens eindwerk op 02/03/2024 (46 min).   
+Met dank aan Luc Arretz die deze opname maakte tijdens de voordracht van Lievens eindwerk op 02/03/2024 (46 min).   
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
 cat('
