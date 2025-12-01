@@ -72,7 +72,7 @@ De convectiebeweging leidt tot een spontane complexe ruimtelijke organisatie, bi
 cat('
 <div><div style="position:relative; padding-top: 56.25%">
 <video controls style="position:absolute;top:0;left:0;width:100%;height:100%;">
-      <source src="figs/BernardCellenIk.mp4" type="video/mp4">
+      <source src="figs/BernardCellenIk.mp4" type="video/mp4"/>
     </video>
 </div></div>')
 ```
@@ -83,7 +83,7 @@ cat('
 cat('
 <div><div style="position:relative; padding-top: 56.25%">
 <video controls style="position:absolute;top:0;left:0;width:100%;height:100%;">
-      <source src="figs/granulation_sun.mp4" type="video/mp4">
+      <source src="figs/granulation_sun.mp4" type="video/mp4"/>
     </video>
 </div></div>')
 ```
