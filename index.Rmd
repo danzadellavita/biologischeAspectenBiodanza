@@ -64,7 +64,7 @@ Gebruik de iconen < en > of het menu om door de monografie te navigeren
 ```
 
 
-# Licentie and links {-}
+# Licentie en links {#licentie-and-links .unnumbered}
 
 Deze monografie wordt gedeeld onder de <a href= "https://creativecommons.org/licenses/by-nc-sa/4.0"> CC BY-NC-SA 4.0</a> licentie op `r format(Sys.time(), "%d %B, %Y")`.
 
@@ -103,11 +103,11 @@ Link naar de opname: [https://youtu.be/mDkPJ8pmnYA](https://youtu.be/mDkPJ8pmnYA
 Mijn weg naar deze monografie is een pad van een heel leven.  
 Alles wat ik in me heb, kantelde hier finaal in samen. 
 
-Ik kwam ter wereld in een warm nest waar muziek door het huis vibreerde.   
-Een nest waar ik naast de passie voor muziek ook werd geprikkeld om na te denken en om mijn hersenspinsels woorden te geven.   
-Een nest die me ook de ruimte gaf om een passie voor wetenschap te ontwikkelen.  
+Ik kwam ter wereld in een warm nest waar muziek door het huis vibreerde.
+Een nest waar ik naast de passie voor muziek ook werd geprikkeld om na te denken en om mijn hersenspinsels woorden te geven.
+Een nest dat me ook de ruimte gaf om een passie voor wetenschap te ontwikkelen.  
 
-Toen ik achtien werd stond ik voor een keuze, wordt het muziek of wetenschap.  
+Toen ik achttien werd stond ik voor een keuze, wordt het muziek of wetenschap.  
 Het werd de wetenschap.  
 Die weg leidde me uiteindelijk tot mijn passie in statistical genomics, een tak van de statistiek die ons toelaat om uit massieve datasets te leren welke genen anders tot expressie komen als gevolg van interne en externe stimuli, ecofactoren, ziekte, ons genetisch potentieel, ...   
 Wat een belangrijke component zou blijken te zijn voor mijn begrip van het model van Biodanza.
@@ -136,7 +136,7 @@ Eerst in je verhalen over de Biodanza opleiding die je volgde,
 daarna door me mee te nemen naar hun Biodanza Stages in de Franse Ardennen,    
 en uiteindelijk door me helemaal te steunen om te starten in de nieuwe cyclus van de opleiding.
 
-Een pad die me radicaal transformeerde.  
+Een pad dat me radicaal transformeerde.  
 Muziek, beweging, dans, passie, wetenschap, lichaam, geest,
 het kwam allemaal weer samen en werd weer één.  
 Jullie lieten me ervaren hoe alles vertrekt vanuit het intens beleven van het leven, hier en nu.   
@@ -150,11 +150,11 @@ Die lieten de passie voor de wetenschap weer helemaal bij mij oplaaien.
 En toen deed je iets onvoorstelbaars...  
 Met een ongelofelijk vertrouwen
 nodigde je me uit om samen de theorie van de Biologische Aspecten van Biodanza te brengen in de opleiding.  
-Iets die mijn transformatie helemaal in een stroomversnelling bracht en een jaar later uitkantelde in de eerste ruwe versie van deze monografie.  
+Iets dat mijn transformatie helemaal in een stroomversnelling bracht en een jaar later uitkantelde in de eerste ruwe versie van deze monografie.  
 
 Een versie die ik Annemie en Frederieke heb laten lezen, 
 en waarvan ik, als ik er nu aan terug denk, licht begin te blozen.  
-Maar jullie feedback was essentiel om mijn schrijfsels beter af te stemmen op mijn doelpubliek. 
+Maar jullie feedback was essentieel om mijn schrijfsels beter af te stemmen op mijn doelpubliek. 
 
 Een half jaar later was het alweer jij, Annette, 
 die met een meesterzet het momentum nog maar eens zou gaan vergroten.  
@@ -215,7 +215,7 @@ door jullie kan ik de schoonheid van het Biodanza-leraar-zijn ook gaan ontdekken
 
 Ik begon in 2021 aan de lerarenopleiding Biodanza aan de School van Antwerpen. De verrijkte omgeving veranderde mijn kijk op het leven en hoe ik het leven ervaar volledig. Het zorgde voor een enorme persoonlijke groei en stimuleerde mij om mijn geest, lichaam en hart opnieuw te verbinden.
 
-Tijdens de eerste module van de lerarenopleiding stond ik versteld om te zien dat de verticale as in het model van Biodanza zo nauw verweven leek te zijn met mijn wetenschappelijke pad van de afgelopen 25 jaar. Rolondo Toro werd bij de ontwikkeling van zijn Systeem van Biodanza door zoveel vooraanstaande wetenschappers geïnspireerd. Tijdens mijn formele wetenschappelijke opleiding kwam ik echter nooit in aanraking met veel van de concepten die in de eerste modules van de lerarenopleiding aan bod kwamen, en ik kon deze niet vatten zonder het werk van de oorspronkelijke auteurs te raadplegen.
+Tijdens de eerste module van de lerarenopleiding stond ik versteld om te zien dat de verticale as in het model van Biodanza zo nauw verweven leek te zijn met mijn wetenschappelijke pad van de afgelopen 25 jaar. Rolando Toro werd bij de ontwikkeling van zijn Systeem van Biodanza door zoveel vooraanstaande wetenschappers geïnspireerd. Tijdens mijn formele wetenschappelijke opleiding kwam ik echter nooit in aanraking met veel van de concepten die in de eerste modules van de lerarenopleiding aan bod kwamen, en ik kon deze niet vatten zonder het werk van de oorspronkelijke auteurs te raadplegen.
 
 Mijn monografie weerspiegelt dan ook mijn zoektocht om Rolando's visie op de biologische aspecten te begrijpen, die aan de basis liggen van zijn model van Biodanza. In het eerste hoofdstuk introduceer ik het model van Biodanza. In het tweede hoofdstuk probeer ik Rolando's kijk op het leven, zijn biocentrische principe en zijn concept "vitaal onbewuste" te verduidelijken. In dat hoofdstuk leg ik ook de basis voor de overige drie hoofdstukken die elk focussen op een belangrijk biologisch aspect in het model van Biodanza: (3) Principes van kosmisch leven en de ontstaansgeschiedenis van het leven, een kort verhaal over de geschiedenis van het universum tot aan de oorsprong van het leven, (4) Fylogenese en evolutie, waarin ik de geschiedenis van het leven en hoe het leven evolueerde kort introduceer, en (5) Ontogenese, waar ik toelicht hoe wij evolueren vanaf onze oorsprong van bevruchte eicel tot volwassenheid, totdat we uiteindelijk sterven. In het vijfde hoofdstuk ligt de nadruk sterk op epigenetica, de ontbrekende schakel die Rolando Toro nodig had om uit te leggen hoe Biodanza een verrijkte omgeving induceert die verandering teweegbrengt in hoe we ons genetisch potentieel gebruiken. Tenslotte sluit ik deze monografie af met enkele slotopmerkingen en met een addendum met enkele impressies die ik tijdens mijn Biodanza-lerarenopleiding heb geschreven.
 
